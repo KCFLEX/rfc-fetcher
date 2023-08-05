@@ -1,0 +1,1 @@
+The go program that retrieves RFC texts, identifies popular words, handles connections efficiently, supports different data sources, and utilizes only the standard library of Go.
